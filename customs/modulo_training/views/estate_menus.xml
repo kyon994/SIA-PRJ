@@ -1,0 +1,11 @@
+<odoo>
+    <menuitem
+        id="crm_menu_root"
+        name="crm"
+    />
+
+    <menuitem
+        id="crm_menus_sales"
+        name="Sales"
+        parent="crm_menu_root"
+    />
